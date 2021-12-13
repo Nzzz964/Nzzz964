@@ -6,7 +6,7 @@
 <div class="top-langs">
     🐵 **Top Langs**
 
-    [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nzzz964&layout=compact&exclude_repo=nzzz964.github.io)](https://github.com/Nzzz964)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nzzz964&layout=compact&exclude_repo=nzzz964.github.io,APUE)](https://github.com/Nzzz964)
 
 </div>
 
