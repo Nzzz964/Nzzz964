@@ -3,8 +3,9 @@
 **A student, interested in ACG and Programming**
 
 🐵 **Top Langs**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nzzz964&layout=compact&exclude_repo=nzzz964.github.io,APUE)](https://github.com/Nzzz964)
+|||
+|:---:|:---:|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nzzz964&layout=compact&exclude_repo=nzzz964.github.io,APUE)](https://github.com/Nzzz964)||
 
 🕊️ **Activity**
 | | |
